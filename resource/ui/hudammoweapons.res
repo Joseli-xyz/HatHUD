@@ -11,7 +11,7 @@
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"45"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/ammo_blue_bg"
 		"scaleImage"	"1"	
@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"HudFontGiantBold"
+		"font"			"FontBig"
 		"fgcolor"		"TanLight"
 		"xpos"			"4"
 		"xpos_minmode"	"8"
@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"HudFontGiantBold"
+		"font"			"FontBig"
 		"fgcolor"		"Black"
 		"xpos"			"5"
 		"xpos_minmode"	"9"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"HudFontMediumSmall"
+		"font"			"FontSmall"
 		"font_lodef"	"HudFontMedium"
 		"font_minmode"	"HudFontSmall"
 		"fgcolor"		"TanLight"
@@ -110,7 +110,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"HudFontMediumSmall"
+		"font"			"FontSmall"
 		"font_lodef"	"HudFontMedium"
 		"font_minmode"	"HudFontSmall"
 		"fgcolor"		"TransparentBlack"

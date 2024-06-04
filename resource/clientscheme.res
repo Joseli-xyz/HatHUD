@@ -2888,7 +2888,7 @@ Scheme
 			"1"
 			{
 				"name"		"Biko-Black"
-				"tall"		"20"
+				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2901,7 +2901,7 @@ Scheme
 			"1"
 			{
 				"name"		"Biko-Black"
-				"tall"		"28"
+				"tall"		"50"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
