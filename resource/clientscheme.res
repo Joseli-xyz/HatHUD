@@ -2881,6 +2881,36 @@ Scheme
 		//
 		//////////////////// ECON FONTS //////////////////////////////
 		//
+		
+		
+		"FontSmall"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"20"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+				"dropshadow" "1"
+			}
+		}
+		
+		"FontBig"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"28"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+				"dropshadow" "1"
+			}
+		}
+		
+		
+		
 		"EconFontSmall"
 		{
 			"1"
@@ -3032,7 +3062,8 @@ Scheme
 			}
 		}
 	}
-
+	
+	
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -5850,5 +5881,12 @@ Scheme
 		"15"		"resource/linux_fonts/LiberationSans-Bold.ttf"
 		"16"		"resource/linux_fonts/LiberationMono-Regular.ttf"
 		"17"		"resource/linux_fonts/FiraSans-Regular.ttf"
+		
+		"18"
+		{
+			"font" "resource/font/Biko_Black.ttf"
+			"name" "Biko-Black"
+		}
+		
 	}
 }
