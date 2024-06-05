@@ -10,7 +10,7 @@
 		"ypos"			"r155"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"zpos"			"2"
-		"wide"			"150"
+		"wide"			"170"
 		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"	
@@ -51,11 +51,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"73"	[$WIN32]
+		"xpos"			"98"	[$WIN32]
 		"xpos_minmode"	"65"	[$WIN32]
 		"ypos"			"33"	[$WIN32]
 		"ypos_minmode"	"40"	[$WIN32]
-		"ypos"			"43"	[$X360]
 		"zpos"			"2"
 		"wide"			"55"	[$WIN32]
 		"wide_minmode"	"40"	[$WIN32]
@@ -73,10 +72,10 @@
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"76"
 		"xpos_minmode"	"61"
-		"ypos"			"52"	[$WIN32]
+		"ypos"			"10"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"100"
+		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
@@ -90,16 +89,16 @@
 		"fieldName"		"PlayerStatusHealthValueBG"
 		"xpos"			"78"
 		"xpos_minmode"	"61"
-		"ypos"			"54"	[$WIN32]
+		"ypos"			"13"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"100"
+		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"FontBig"
-		"fgcolor"		"0 0 0 255"
+		"fgcolor"		"Black"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
@@ -107,10 +106,10 @@
 		"fieldName"		"PlayerStatusMaxHealthValue"
 		"xpos"			"60"
 		"xpos_minmode"	"61"
-		"ypos"			"30"	[$WIN32]
+		"ypos"			"13"	[$WIN32]
 		"zpos"			"6"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"40"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
